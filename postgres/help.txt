@@ -1,0 +1,5 @@
+flyway -configFiles=C:\Users\ter01282\Desktop\techday\MIGRATIONS\postgres\postgres.conf migrate
+flyway -configFiles=C:\Users\ter01282\Desktop\techday\MIGRATIONS\postgres\postgres.conf clean
+
+
+SELECT * FROM flyway.flyway_schema_history
