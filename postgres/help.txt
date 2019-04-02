@@ -1,3 +1,5 @@
+C:\JAVA\FLYWAY\flyway-5.2.4
+
 flyway -configFiles=C:\Users\ter01282\Desktop\techday\MIGRATIONS\postgres\postgres.conf migrate
 flyway -configFiles=C:\Users\ter01282\Desktop\techday\MIGRATIONS\postgres\postgres.conf clean
 
